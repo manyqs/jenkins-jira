@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage('Hello') {
+        stage('Hello to XBOSoft') {
             steps {
                 echo 'Hello World'
             }
